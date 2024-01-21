@@ -8,6 +8,15 @@ In this repo, our proposed method is implemented in MSD.m using only 5 lines of 
 
 
 
+Please cite below paper if the code was used in your research or development.
+    @ARTICLE{10409550,
+      author={Wang, Wenjin and Shu, Huaijing and Lu, Hongzhou and Xu, Ming and Ji, Xiangyang},
+      journal={IEEE Transactions on Biomedical Engineering}, 
+      title={Multispectral Depolarization based Living-skin Detection: A New Measurement Principle}, 
+      year={2024},
+      pages={1-13},
+      doi={10.1109/TBME.2024.3356410}
+    }
 
 
 
